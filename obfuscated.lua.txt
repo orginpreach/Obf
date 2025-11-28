@@ -1,0 +1,14 @@
+local _main_8h9lg6rm = function()
+local _vt3qpl5 = 186
+local _vwu2iaf = 791
+local _v2ki6nq = 468
+  local _nop_l1pae9sm = function(a,b) return (a or 0) + (b or 0) end
+  local _gc_52y5gwg3 = function() return 2274 end
+  if 186 > 187 then local _junk_2xhgb59p = "never_executed" end
+  print((function(IiO1oioloIil_1ef,_u0001f0)local _u0001ed=""for _u0001ee=1,#IiO1oioloIil_1ef do _u0001ed=_u0001ed..string.char((IiO1oioloIil_1ef[_u0001ee]-_u0001f0+256)%256)end return _u0001ed end)({128,125,132,132,135},24))
+  local _void_w49d8y70 = function() local a,b = 70.24332061483842, 59.82914682562017 return a * b end
+  local _null_3mf1vvmf = "33e6nz5q82"
+  local _nop_78514pj4 = 0 while _nop_78514pj4 < 1 do _nop_78514pj4 = _nop_78514pj4 + 1 end
+end
+
+return _main_8h9lg6rm()
