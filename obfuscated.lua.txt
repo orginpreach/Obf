@@ -1,0 +1,19 @@
+--I'mgonncrackyoucrazily Obfuscator/Deobfuscator Protected Script
+local _main_bspmqhpz=function()local _vuof3uj=646
+local _voxw6zk=437
+local _vcla70l=388
+local _v40v4cc=419
+local _vfu1fhg=400
+local _vqtya4h=130
+local _vi2lq2e=452
+local _null_rh5sbqhr={["k0"]=517,["k1"]=438,["k2"]=672};local _=#_null_rh5sbqhr
+local _null_yde2g2xz=nil
+local _null_fmfy5w7b={}local _unused_pmerb6s6={["k0"]=506,["k1"]=522,["k2"]=27,["k3"]=474,["k4"]=213,["k5"]=634,["k6"]=398};local _=#_unused_pmerb6s6
+local _unused_e0r17v7l;_unused_e0r17v7l=function(n)if n<=0 then return 1 else return n*_unused_e0r17v7l(n-1)end end;local _=_unused_e0r17v7l(3)local _nop_yacifjrd={["k0"]=67,["k1"]=139,["k2"]=87};local _=#_nop_yacifjrd
+local _nop_vxy5uhoc=false
+print("hello")local _null_v6q0vdqn=""
+local _junk_62n36zgo=function(s)if not s then return 0 end;return #s end;local _=_junk_62n36zgo("test")local _cache_vpw258ke={}local _nop_88m7pmlf;_nop_88m7pmlf=function(n)if n<=0 then return 1 else return n*_nop_88m7pmlf(n-1)end end;local _=_nop_88m7pmlf(3)local _pool_svylyys4=function(...)local t={...}local s=0for i=1,#t do s=s+(t[i]or 0)end return s end;_pool_svylyys4(1,2)for _nop_3t98urvf=1,7do local _=_nop_3t98urvf*6end
+for _junk_3yo8qlxv=1,3do local _=_junk_3yo8qlxv*7end
+if 859>868then local _gc_nxc4vfq1="unreachable"else local _gc_nxc4vfq1="always"end
+end
+return _main_bspmqhpz()
